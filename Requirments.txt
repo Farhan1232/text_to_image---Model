@@ -1,0 +1,21 @@
+Here is the requirements.txt file based on your code:
+
+txt
+Copy
+Edit
+torch
+diffusers
+Pillow
+ipython
+This includes:
+
+torch: Required for running the Stable Diffusion model.
+diffusers: The library that provides the Stable Diffusion pipeline.
+Pillow: For handling image processing.
+ipython: Needed for display(image) in Jupyter Notebooks.
+If you want to install all dependencies, just run:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
