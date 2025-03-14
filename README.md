@@ -1,3 +1,4 @@
+![s555](https://github.com/user-attachments/assets/e026197c-d8c6-4015-b05a-094360ede2c2)
 # Text-to-Image Model
 
 A deep learning model that generates images from textual descriptions using advanced AI techniques.
